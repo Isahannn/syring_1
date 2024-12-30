@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="pch.cpp" />
+    <ClCompile Include="TextProcessor.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="TextProcessor.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="case_sensitivity.txt" />
+    <Text Include="empty.txt" />
+    <Text Include="mixed_content.txt" />
+    <Text Include="multiple_words.txt" />
+    <Text Include="newlines_tabs.txt" />
+    <Text Include="numbers.txt" />
+    <Text Include="punctuation.txt" />
+    <Text Include="single_word.txt" />
+    <Text Include="special_characters.txt" />
+    <Text Include="input.txt" />
+  </ItemGroup>
+</Project>

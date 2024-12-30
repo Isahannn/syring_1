@@ -1,0 +1,4 @@
+This is a sample text. This text is for testing.
+The quick brown fox jumps over the lazy dog.
+Apple banana apple orange.
+The cat sat on the mat. The dog sat on the log.
